@@ -1,7 +1,7 @@
 show databases;
 DROP DATABASE school;
 use school;
--- March.29th SQl for Data Science by Ruofan Chen
+-- March.29th SQL for Data Science by Ruofan Chen
 
 -- slide page 10
 -- create table 'student'
